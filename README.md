@@ -1,5 +1,7 @@
 # Verified SaaS Pricing
 
+Mirrors: [Hugging Face](https://huggingface.co/datasets/happyvalleydev/verified-saas-pricing) · [Kaggle](https://www.kaggle.com/datasets/happyvalleydev/verified-saas-pricing-700-tools-price-changes) · Live pages: [happyvalley.dev/data](https://happyvalley.dev/data)
+
 Starting prices, plan tables and dated price changes of 700+ SaaS tools, each checked against the vendor's own pricing page, plus a benchmark of how accurately AI assistants recall those prices. Maintained by [Happy Valley](https://happyvalley.dev), an independent SaaS directory. Updated monthly.
 
 ## Files
